@@ -5,6 +5,18 @@
 
 }
 
+.card-title {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 2em;
+
+}
+
+.card-text {
+padding-top: 10px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
 div { 
     text-align:center; width:100%; 
 } 
@@ -21,4 +33,15 @@ iframe{
     width: 40px;
     text-align: center;
     text-decoration: none;
+  }
+
+  p {
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: justify;
+      text-indent: 50px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      padding-left: 30px;
+      padding-right: 30px;
+      
   }
