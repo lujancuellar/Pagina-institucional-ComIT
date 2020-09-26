@@ -45,3 +45,9 @@ iframe{
       padding-right: 30px;
       
   }
+
+ .checkbox-inline {
+     display: inline-block;
+     padding-left: px;
+     padding-top: 20px;
+ }
