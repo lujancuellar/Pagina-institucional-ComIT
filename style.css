@@ -60,12 +60,20 @@ iframe{
       
   }
 
- .checkbox-inline {
-     display: inline-block;
-     padding-top: 20px;
-     padding-bottom: 20px;
+ #filacheckbox {
+     display: flex;
+     background-color: red;
  }
 
+ #checkizquierda {
+    width: 80%;
+    align-items: flex-start;
+ }
+
+ #checkderecha {
+     width: 80%;
+    align-items: flex-end;
+ }
  .row {
      padding-top: 25px;
      padding-left: 35px;
