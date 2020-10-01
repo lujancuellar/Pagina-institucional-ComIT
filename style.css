@@ -1,13 +1,21 @@
+#fondo {
+    background: linear-gradient(70deg, blueviolet, white);
+    background-color: blueviolet;
+
+}
+
+
+
 
 #titulo {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     font-size: 4em;
+    letter-spacing: 2px;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 20px;
     text-transform: uppercase;
     text-decoration: underline;
-    text-overflow: ellipsis;
 }
 
 h5 {
