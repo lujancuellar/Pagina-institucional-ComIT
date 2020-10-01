@@ -1,6 +1,5 @@
 #fondo {
-    background: linear-gradient(70deg, blueviolet, white);
-    background-color: blueviolet;
+    background: linear-gradient(70deg,  #39a0ed, white);
 
 }
 
@@ -11,9 +10,10 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     font-size: 4em;
     letter-spacing: 2px;
+    text-shadow: 1px 2px 2px #4c6085;
     text-align: center;
-    padding-top: 10px;
-    padding-bottom: 20px;
+    padding-top: 4px;
+    padding-bottom: 30px;
     text-transform: uppercase;
     text-decoration: underline;
 }
