@@ -33,7 +33,7 @@ font-family: Arial, Helvetica, sans-serif;
 
 div { 
     text-align:center; 
-    width:100%; 
+    width: 100%; 
 } 
 iframe{ 
       width: 800px;
@@ -98,4 +98,24 @@ iframe{
  #myNavbar {
      text-transform: uppercase;
      text-decoration: underline;
+     font-style: italic;
+     
  }
+
+ #Nombre {
+    width: 80%;
+    display: inline-flex;
+ }
+
+#Apellido {
+     width: 80%;
+     display: inline-flex;
+ }
+
+ #email {
+    width: 80%;
+    display: inline-flex;
+    margin-left: 15px;
+ }
+
+
